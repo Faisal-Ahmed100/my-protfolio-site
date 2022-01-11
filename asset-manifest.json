@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-protfolio-site/static/css/main.9fcae28b.css",
+    "main.js": "/my-protfolio-site/static/js/main.7bf4180a.js",
+    "static/media/cc.JPG": "/my-protfolio-site/static/media/cc.7e5199b614b2679b5a07.JPG",
+    "static/media/aaa.JPG": "/my-protfolio-site/static/media/aaa.7a7f67dd46bb05304aaa.JPG",
+    "static/media/new.JPG": "/my-protfolio-site/static/media/new.3ac1091dd8b1e6518b50.JPG",
+    "static/media/protfolio-2.webp": "/my-protfolio-site/static/media/protfolio-2.b3d6fd02582d3ae1a10f.webp",
+    "static/media/cliensetisfy.webp": "/my-protfolio-site/static/media/cliensetisfy.031ce77a398171427673.webp",
+    "static/media/protfolio-6.webp": "/my-protfolio-site/static/media/protfolio-6.9dd347ff9da92f4f9295.webp",
+    "static/media/protfolio-5.webp": "/my-protfolio-site/static/media/protfolio-5.718bce8e37e2c004c10c.webp",
+    "static/media/protfolio-3.webp": "/my-protfolio-site/static/media/protfolio-3.0626092a778c539c2370.webp",
+    "static/media/protfolio-4.webp": "/my-protfolio-site/static/media/protfolio-4.4ca5ece95c9ebe38ddc2.webp",
+    "static/media/protfolio-1.webp": "/my-protfolio-site/static/media/protfolio-1.ff2774571930d169bab4.webp",
+    "index.html": "/my-protfolio-site/index.html",
+    "main.9fcae28b.css.map": "/my-protfolio-site/static/css/main.9fcae28b.css.map",
+    "main.7bf4180a.js.map": "/my-protfolio-site/static/js/main.7bf4180a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fcae28b.css",
+    "static/js/main.7bf4180a.js"
+  ]
+}
